@@ -1,5 +1,6 @@
 # WSL勉強会 20160515
-* 日時:2016/0515 Sat.
+* 日付:2016/0515 Sat. 13:00-
+* 場所
 
 ## DB
 * Mongo DB
@@ -63,6 +64,59 @@ GUIでDBをいじれる
 ![screenshot1](https://github.com/otamot/WSL_Study20160515/blob/master/screenshot1.png)
 
 
+#### Table作成
+##### WSL_Projectテーブル
+|Project_id ^|Project_name|
+|:--|:---|
+|0|"REC"|
+|1|"MS"|
+|2|"CL"|
+|3|"CA"|
+
+##### WSL_Memberテーブル
+|member_id^|member_name|project_id .|
+|:--|:---|:--|
+|0|"SG"|1|
+|1|"KI"|0|
+|2|"TH"|2|
+|3|"YT"|3|
+
+
+##### SQL文
+```SQL
+Create table WSL_Project(
+  `Project_id` int(11),
+  `project_name` varchar(10),
+  primary key(Project_id)
+);
+
+Create table WSL_Member(
+  `member_id` int(11),
+  `member_name` varchar(10),
+  `project_id` int(11),
+  primary key(member_id),
+  foreign key(Project_id) references WSL_Project(Project_id)
+);
+
+Insert into WSL_Project values(0,"REC"),(1,"MS"),(2,"CL"),(3,"CA")
+Insert into WSL_Member values(0,"SG",1),(1,"KI",0),(2,"TH",2),(3,"YT",3)
+```
+
+^: 主キー
+.: 外部キー
+
+
+![screenshot2](https://github.com/otamot/WSL_Study20160515/blob/master/screenshot2.png)
+
+![screenshot3](https://github.com/otamot/WSL_Study20160515/blob/master/screenshot3.png)
+
+
+![screenshot4](https://github.com/otamot/WSL_Study20160515/blob/master/screenshot4.png)
+
+
+
+
+
 
 
 ## Frameworkとは?
@@ -82,6 +136,15 @@ GUIでDBをいじれる
 M↔C↔V
 
 フレームワークとはMとVとCを作ってくれるもの
+
+
+## gitでチーム開発
+* 1.fork
+* 2.clone
+* 3.switch branch
+* 4.add->commit->push switched branch
+* 5.pull request
+
 
 
 
