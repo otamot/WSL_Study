@@ -61,7 +61,7 @@ GUIでDBをいじれる
 [download site](http://www.sequelpro.com/)
 
 #### 起動方法
-![screenshot1](https://github.com/otamot/WSL_Study20160515/blob/master/screenshot1.png)
+![screenshot1](https://github.com/otamot/WSL_Study/blob/master/20160515/screenshot1.png)
 
 
 #### Table作成
@@ -108,12 +108,12 @@ Insert into WSL_Member values(0,"SG",1),(1,"KI",0),(2,"TH",2),(3,"YT",3)
 
 
 
-![screenshot2](https://github.com/otamot/WSL_Study20160515/blob/master/screenshot2.png)
+![screenshot2](https://github.com/otamot/WSL_Study/blob/master/20160515/screenshot2.png)
 
-![screenshot3](https://github.com/otamot/WSL_Study20160515/blob/master/screenshot3.png)
+![screenshot3](https://github.com/otamot/WSL_Study/blob/master/20160515/screenshot3.png)
 
 
-![screenshot4](https://github.com/otamot/WSL_Study20160515/blob/master/screenshot4.png)
+![screenshot4](https://github.com/otamot/WSL_Study/blob/master/20160515/screenshot4.png)
 
 
 
