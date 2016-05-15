@@ -60,7 +60,7 @@ GUIでDBをいじれる
 [download site](http://www.sequelpro.com/)
 
 #### 起動方法
-![screenshot1](http://www.yahoo.co.jp)
+![screenshot1](https://github.com/otamot/WSL_Study20160515/blob/master/screenshot1.png)
 
 
 
