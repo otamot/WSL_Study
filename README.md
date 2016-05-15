@@ -81,6 +81,9 @@ GUIでDBをいじれる
 |2|"TH"|2|
 |3|"YT"|3|
 
+^: 主キー
+.: 外部キー
+
 
 ##### SQL文
 ```SQL
@@ -102,8 +105,7 @@ Insert into WSL_Project values(0,"REC"),(1,"MS"),(2,"CL"),(3,"CA")
 Insert into WSL_Member values(0,"SG",1),(1,"KI",0),(2,"TH",2),(3,"YT",3)
 ```
 
-^: 主キー
-.: 外部キー
+
 
 
 ![screenshot2](https://github.com/otamot/WSL_Study20160515/blob/master/screenshot2.png)
@@ -137,6 +139,19 @@ M↔C↔V
 
 フレームワークとはMとVとCを作ってくれるもの
 
+
+構想：startとgoalの駅名を入力すると乗換駅を含めた最適な経路を表示してくれるアプリ
+
+* View側で出発地と目的地を入力
+* Controlerで出発地と目的地を基にデータベース(Model)から必要な情報をリクエストして、もらう。
+* Controlerでデータから計算をして最短経路を求める。結果をJSONでViewに渡す。
+* ViewではXMLをもとに表示する(UI設計？？)
+
+
+リクエスト：localhost/s=登戸&g=渋谷:3000
+レスポンス：登戸->下北沢->渋谷
+
+[乗り換え検索アプリを作ろう!]()
 
 ## gitでチーム開発
 * 1.fork
