@@ -1,8 +1,9 @@
 # WSL勉強会 20160515
 * 日付:2016/0515 Sat. 13:00-
-* 場所
+* 場所:WSL研究室
 
-## DB
+
+## DBの種類
 * Mongo DB
 * MySQL
 * Access
@@ -14,6 +15,10 @@
 
 ## RDBMS vs NoSQL
 ###  RDBMS(Relational Database Management System)
+スキーマの設定などをしかり定義する必要がある
+
+### NoSQL
+スキーマの設定をする必要が無い。
 
 
 ## MySQLを使う
@@ -151,7 +156,7 @@ M↔C↔V
 リクエスト：localhost/s=登戸&g=渋谷:3000
 レスポンス：登戸->下北沢->渋谷
 
-[乗り換え検索アプリを作ろう!]()
+[乗り換え検索アプリを作ろう!](https://github.com/otamot/EKIApp)
 
 ## gitでチーム開発
 * 1.fork
@@ -166,4 +171,4 @@ M↔C↔V
 
 
 ## 参考ページ
-[]
+[Node.jsでMySQLを使うメモ](http://qiita.com/PianoScoreJP/items/7ed172cd0e7846641e13)
