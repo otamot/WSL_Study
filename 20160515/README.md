@@ -1,4 +1,4 @@
-# WSL勉強会 20160515
+#WSL勉強会 20160515
 * 日付:2016/0515 Sat. 13:00-
 * 場所:WSL研究室
 
@@ -29,21 +29,22 @@ $ brew install mysql
 
 ### 使い方
 MySQLサーバの起動
-```
+```shell
 $ mysql.server start
 ```
 
 MySQLに入る
-```
+```shell
 $ sudo mysql [-u username] [p]
 ```
+
 |オプション|効果                     |
 |:-------|:------------------------|
 |-u      |ユーザ名を指定|
 |-p      |passwordを入力してログイン。コマンド実行後にpasswordを尋ねられる|
 
 
-```
+```shell
 mysql> SHOW DATABASES;
 
 +--------------------+
