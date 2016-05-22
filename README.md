@@ -5,7 +5,7 @@
 * Databaseについての勉強
 * APIを作ろう!
 
-##[2016/05/22(日)](https://github.com/otamot/WSL_Study/tree/master/20160515)
+##[2016/05/22(日)](https://github.com/otamot/WSL_Study/tree/master/20160522)
 * 前回の復習
 * Pythonでデータベース！
 * 駅appsの改良
