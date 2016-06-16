@@ -139,7 +139,7 @@ Insert into WSL_Member values(0,"SG",1),(1,"KI",0),(2,"TH",2),(3,"YT",3)
 ### MVC(Model View Controler)
   + M:Model->データベースとか
   + V:View->クライアント
-  + C:Contoler
+  + C:Controller
 
 M↔C↔V
 
@@ -149,8 +149,8 @@ M↔C↔V
 構想：startとgoalの駅名を入力すると乗換駅を含めた最適な経路を表示してくれるアプリ
 
 * View側で出発地と目的地を入力
-* Controlerで出発地と目的地を基にデータベース(Model)から必要な情報をリクエストして、もらう。
-* Controlerでデータから計算をして最短経路を求める。結果をJSONでViewに渡す。
+* Controllerで出発地と目的地を基にデータベース(Model)から必要な情報をリクエストして、もらう。
+* Controllerでデータから計算をして最短経路を求める。結果をJSONでViewに渡す。
 * ViewではXMLをもとに表示する(UI設計？？)
 
 
