@@ -3,12 +3,31 @@
 * 場所:WSL研究室
 
 ## YutaTomomatsu
-資料：[k-means.ppt](https://github.com)
+資料：[パワーポイント資料](http://www.slideshare.net/tomo_otamot/kmeansk)
+
 ### k-meansの話
 [コチラ](https://github.com/otamot/MachineLearning/tree/master/clustering/KMeans)のページを参照
 
 ### javadocのお話
-アノテーション
+#### Javadoc何がいい？
+ソースコード内にソースコードの説明が記述できる
+(これだけじゃないですが・・・)
+
+#### コメントと何が違うの?
+* HTML形式のドキュメンテーションファイルを出力できる。
+* 他にも…	コンパイル時の警告の抑制,非推奨メソッドの警告表		示,スレッドセーフかどうかなど様々なことを記述で		きる。
+
+#### javadocの書き方
+```Java
+/**
+*
+* この部分にJavadocを記載する。
+* @アノテーション //アノテーションを使って様々な説明を加えられる。
+*/
+```
+
+#### アノテーション
+
 
 
 |アノテーション|説明|
@@ -17,10 +36,14 @@
 |@version|バージョン|
 |@param|メソッドの引数の説明|
 |@return|メソッドの返り値の説明|
-|@throws|どんなときにエラーをthrowするかの説明|
+|@throws|どんなときにどんなエラーをthrowするかの説明|
+
+
+この他にもいろいろあります。
 
 
 
+#### Javadocの例
 
 ```java
 package annotation;
@@ -49,3 +72,11 @@ public class AnnotationTest{
 	}
 }
 ```
+
+
+#### HTML形式のドキュメンテーションの作り方
+* Eclipseを使うことによって簡単にドキュメンテーションを作れる。
+* 上の例から作成してみる
+
+
+* Project->Generate Javadoc...->private,publicを選択->Finish
