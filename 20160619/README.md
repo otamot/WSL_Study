@@ -17,13 +17,13 @@
 
 
 ### Isshu
-[資料](/ichumunemasa/)
+[資料](ichumunemasa/)
 * ナイーブベイズ
 
 
 
 ### YutaTomomatsu
-[資料](/YutaTomomatsu/)
+[資料](YutaTomomatsu/)
 * clutering
 	* k-means
 		- KKZ
@@ -32,7 +32,7 @@
 
 
 ### chan-p
-[資料](/chan-p/LDA/)
+[資料](chan-p/LDA/)
 
 
 #### ぴーはやのMFまとめ
