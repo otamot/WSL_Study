@@ -17,7 +17,7 @@
 
 
 ### Isshu
-[資料](ichumunemasa/)
+[資料](ichimunemasa/)
 * ナイーブベイズ
 
 
