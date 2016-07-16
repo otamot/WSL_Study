@@ -1,28 +1,37 @@
 # WSL勉強会
 研究室での勉強会の備忘録置き場
 
-## [2016/05/15(日)](https://github.com/otamot/WSL_Study/tree/master/20160515)
+## [2016/05/15(日)](./20160515)
 * Databaseについての勉強
 * APIを作ろう!
 
-##[2016/05/22(日)](https://github.com/otamot/WSL_Study/tree/master/20160522)
+##[2016/05/22(日)](./20160522)
 * 前回の復習
 * Pythonでデータベース！
 * 駅appsの改良
 
-##[2016/06/19(日)](https://github.com/otamot/WSL_Study/tree/master/20160619)
+##[2016/06/19(日)](./20160619)
 
 * 今回から機械学習に力を入れる
 
 
-|名前|担当|
-|:--|:--|
-|Isshu|ナイーブベイズ|
-|YutaTomomatsu|クラスタリング全般,k-means,Javadocについて|
-|chan-p|LDA,MF|
-|inuken|ニューラルネットワーク,アンサンブル学習|
-|boss|プロジェクトの進め方,gitのお話|
+|順番|名前|担当|
+|:-:|:--|:--|
+|1|Isshu|ナイーブベイズ|
+|2|YutaTomomatsu|クラスタリング全般,k-means,Javadocについて|
+|3|chan-p|LDA,MF|
+|4|INUKEN|ニューラルネットワーク,アンサンブル学習|
+|5|boss|プロジェクトの進め方,gitのお話|
 
 
-## 2016/07/17(日)
-* 予定
+## [2016/07/17(日)]()
+* 機械学習,Serverの負荷分散などなどについて
+
+
+|順番|名前|担当|
+|:-:|:--|:--|
+|1|Isshu|Decision Diagram(決定木)|
+|2|YutaTomomatsu|Regression(回帰)①|
+|3|chan-p|Neural Network|
+|4|boss|Server Load balancing|
+|5|Satoru Murakami|How to Enter|
