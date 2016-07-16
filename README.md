@@ -24,13 +24,13 @@
 |5|boss|プロジェクトの進め方,gitのお話|
 
 
-## [2016/07/17(日)]()
+## [2016/07/17(日)](./20160717)
 * 機械学習,Serverの負荷分散などなどについて
 
 
 |順番|名前|担当|
 |:-:|:--|:--|
-|1|Isshu|Decision Diagram(決定木)|
+|1|Isshu|Decision Tree(決定木)|
 |2|YutaTomomatsu|Regression(回帰)①|
 |3|chan-p|Neural Network|
 |4|boss|Server Load balancing|
