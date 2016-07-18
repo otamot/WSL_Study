@@ -13,53 +13,67 @@ public class SimpleLinearRegression {
 	private double[] y;
 	private double b0;
 	private double b1;
+	private boolean learnFlg;
 
+	/**
+	 *
+	 * @param x 説明(独立)変数の観測点
+	 * @param y 目的(従属)変数の観測点
+	 */
 	public SimpleLinearRegression(double[] x,double[] y){
+		if(x.length != y.length || x.length == 0)
+			throw new IllegalArgumentException("変数の指定が正しくありません");
 		this.x = x.clone();
 		this.y = y.clone();
-		this.b0=0;
-		this.b1=0;
+		b0=0;
+		b1=0;
+		learnFlg = false;
 	}
-
 
 	/**
 	 * 単回帰を行う。
 	 */
 	public void learn(){
 		b1 = covariance(x,y)/variance(x);
-		double ave_x = 0, ave_y = 0;
-		for(int i = 0; i < x.length; i++){
-			ave_x += x[i];
-			ave_y += y[i];
-		}
-		ave_x/=x.length;
-		ave_y/=y.length;
-		b0 = ave_y - b1*ave_x;
+		b0 = average(y) - (b1*average(x));
+		learnFlg = true;
 	}
 
+
+	/**
+	 * 回帰を行って求めた重みを標準出力する
+	 */
 	public void print(){
-		System.out.println("y = " + b0 + " + " + b1 + "x");
+		if(learnFlg)
+			System.out.println("y = " + b0 + " + " + b1 + "x");
+		else{
+			throw new UnsupportedOperationException("learnメソッドを実行してからprintメソッドの呼び出しを行ってください。");
+		}
 	}
 
+	/**
+	 * aの平均を求める
+	 * @param a doubleの1次元配列
+	 * @return aの平均値
+	 */
+	private double average(double[] a){
+		double ave_a = 0;
+		for(double a_i: a)
+			ave_a+=a_i;
+		return ave_a/=a.length;
+	}
 
 	/**
 	 * aの分散を求める
 	 * @param a doubleの1次元配列
 	 * @return aの分散値
 	 */
-	public double variance(double[] a){
-		double ave_a = 0;
-		for(double a_i: a){
-			ave_a += a_i;
-		}
-		ave_a/=a.length;
-
+	private double variance(double[] a){
+		double ave_a = average(a);
 		double var_a = 0;
-		for(int i = 0; i < a.length; i++){
+		for(int i = 0; i < a.length; i++)
 			var_a += Math.pow((a[i] - ave_a),2);
-		}
-		var_a/=a.length;
-		return var_a;
+		return var_a/=a.length;
 	}
 
 
@@ -71,29 +85,18 @@ public class SimpleLinearRegression {
 	 */
 	private double covariance(double[] a, double[] b){
 		double cov_ab = 0;
-		double ave_a = 0,ave_b = 0;
-		for(int i = 0; i < a.length; i++){
-			ave_a += a[i];
-			ave_b += b[i];
-		}
-		ave_a/=a.length;
-		ave_b/=b.length;
-
-		for(int i = 0; i < a.length; i++){
+		double ave_a = average(a);
+		double ave_b = average(b);
+		for(int i = 0; i < a.length; i++)
 			cov_ab += (a[i] - ave_a)*(b[i] - ave_b);
-		}
-
-		cov_ab /= a.length;
-
-		return cov_ab;
+		return cov_ab /= a.length;
 	}
-
 }
+
 ```
 
 ###　SimpleLinearRegressionMain クラス
 ```Java
-
 package linearRegression;
 
 public class SimpleLinearRegressionMain {
@@ -108,5 +111,4 @@ public class SimpleLinearRegressionMain {
 	}
 
 }
-
 ```
