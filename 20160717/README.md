@@ -5,14 +5,15 @@
 ## 発表担当
 
 
-
 |順番|名前|担当|
 |:-:|:--|:--|
+|0|special guest自己紹介|
 |1|Isshu|Decision Tree(決定木)|
 |2|YutaTomomatsu|Regression(回帰)①|
 |3|chan-p|Neural Network|
-|4|boss|Server Load balancing|
-|5|Satoru Murakami|How to Enter|
+|4|Satoru Murakami|How to Enter|
+|5|boss|AdTechについて|
+
 
 
 ### Isshu
@@ -30,11 +31,11 @@
 [資料](./chan-p)
 * Neural Network
 
-### boss
-[資料](./boss)
-* Server Load balancing
 
+### boss
+* Server Load balancing
+* git上に資料はなし
 
 ### SatoruMurakami
-[資料](./SatoruMurakami)
 * How to enter
+* git上に資料はなし

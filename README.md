@@ -25,13 +25,19 @@
 
 
 ## [2016/07/17(日)](./20160717)
-* 機械学習,Serverの負荷分散などなどについて
+* 機械学習,AdTechなどなどについて
 
 
 |順番|名前|担当|
 |:-:|:--|:--|
+|0|special guest自己紹介|
 |1|Isshu|Decision Tree(決定木)|
 |2|YutaTomomatsu|Regression(回帰)①|
 |3|chan-p|Neural Network|
-|4|boss|Server Load balancing|
-|5|Satoru Murakami|How to Enter|
+|4|Satoru Murakami|How to Enter|
+|5|boss|AdTechについて|
+
+
+## [2016/08/13(土)](./20160813)
+* 予定
+* 回帰,強化学習,Hadoop,...
