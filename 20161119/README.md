@@ -9,6 +9,8 @@
 ## murakami,isshu
 [リポジトリ](https://github.com/ichimunemasa/coupples_app)  
 
+[資料](./couple_app.pdf)
+
 
 ## p-haya,akane
 [リポジトリ](https://github.com/akane-sugiuchi/social_app)  
