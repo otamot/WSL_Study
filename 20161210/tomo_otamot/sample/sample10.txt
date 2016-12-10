@@ -1,0 +1,320 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja">
+
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name=”keywords” content=”takagi, tomohiro, sugeno, TS model, fuzzy, TSK, reasoning, 高木研, 高木友博”>
+
+<title>【高木研】明治大学 理工学部 高木友博研究室</title>
+<link rel="stylesheet" href="http://takagiken.com/wp-content/themes/Initiate/includes/css/screen.css" type="text/css" media="screen, projection" />
+<link rel="stylesheet" href="http://takagiken.com/wp-content/themes/Initiate/includes/css/print.css" type="text/css" media="print" />
+<!--[if IE]><link rel="stylesheet" href="http://takagiken.com/wp-content/themes/Initiate/includes/css/ie.css" type="text/css" media="screen, projection"><![endif]-->
+<link rel="stylesheet" href="http://takagiken.com/wp-content/themes/Initiate/includes/menus/css/primary-menu.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://takagiken.com/wp-content/themes/Initiate/includes/menus/css/secondary-menu.css" type="text/css" media="screen" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://takagiken.com/wp-content/themes/Initiate/style.css" />
+
+<script type='text/javascript' src='http://takagiken.com/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://takagiken.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://takagiken.com/wp-content/themes/Initiate/includes/menus/js/superfish.js?ver=3.7.16'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://takagiken.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://takagiken.com/wp-includes/wlwmanifest.xml" />
+<link rel='prev' title='Fuzzy Identification of Systems and Its Applications to Modeling and Control' href='http://takagiken.com/ts-model' />
+<meta name="generator" content="WordPress 3.7.16" />
+<link rel='canonical' href='http://takagiken.com/' />
+<link rel='shortlink' href='http://takagiken.com/?p=96' />
+<!--[if IE 6]>
+<script type='text/javascript' src="http://takagiken.com/wp-content/themes/Initiate/includes/js/pngfix.js"></script>
+<script type='text/javascript'>DD_belatedPNG.fix('img');</script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="【高木研】明治大学 理工学部 高木友博研究室 RSS Feed" href="http://takagiken.com/feed" />
+<link rel="pingback" href="http://takagiken.com/xmlrpc.php" />
+<link rel="stylesheet" href="http://takagiken.com/wp-content/themes/Initiate/style-widgets.css" type="text/css" media="all" />
+
+<style type="text/css">
+<!--
+#myGallery, #myGallerySet, #flickrGallery { width: 620px; height: 320px; }
+.jdGallery .slideInfoZone { background: #1B3342; color: #FFFFFF; }
+.jdGallery a.carouselBtn, .jdGallery .carousel { background: #1B3342; }
+-->
+</style>
+
+
+</head>
+
+<body>
+	<div id="wrapper">
+		<div id="container" class="container">
+
+            <div class="span-24">
+
+                				<div class="primary-menu-wrap"><ul id="menu-%e4%b8%8a%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc" class="primary-menu"><li id="menu-item-141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141"><a href="http://takagiken.com/tomohiro-takagi">about Tomohiro Takagi</a></li>
+<li id="menu-item-146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="http://takagiken.com/ts-model">TAKAGI-SUGENO MODEL</a></li>
+</ul></div>                  <!--/primary meny-->
+
+
+            </div>  <!--/primary-menu span-->
+
+            <div class="span-24" id="header">
+
+				<div class="span-12">
+                    <div id="header-left">
+                                            <div class="logo">
+                            <a href="http://takagiken.com"><img src="http://takagiken.com/wp-content/uploads/2011/06/wsl-logo5.jpg" alt="【高木研】明治大学 理工学部 高木友博研究室" title="【高木研】明治大学 理工学部 高木友博研究室" /></a>
+                        </div>
+                                        </div>  <!--/header left-->
+				</div>  <!--/header left span-->
+
+				<div class="span-12 last">
+                    <div id="header-right">
+                                            </div>  <!--/header right-->
+				</div>  <!--/header right span-->
+
+                			</div>  <!--/header & header span-->
+
+
+            <div class="span-24" style="height: 36px;">
+                                <div class="home-icon">
+					<a href="http://takagiken.com" class="home-icon" title="Home"><img src="http://takagiken.com/wp-content/themes/Initiate/images/home.gif" /></a>
+				</div>
+                <div class="secondary-menu-wrap"><ul id="menu-%e4%b8%8b%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc" class="secondary-menu"><li id="menu-item-169" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-169"><a href="http://takagiken.com/category/theme">研究テーマ</a></li>
+<li id="menu-item-142" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142"><a href="http://takagiken.com/category/international">国際会議体験記</a></li>
+<li id="menu-item-819" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-819"><a href="http://takagiken.com/category/wsl%e3%83%96%e3%83%ad%e3%82%b0">WSLブログ</a></li>
+<li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="http://takagiken.com/tomohiro-takagi">Tomohiro Takagi</a></li>
+<li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144"><a href="http://takagiken.com/ts-model">TS Model</a></li>
+<li id="menu-item-143" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-143"><a href="http://takagiken.com/category/openlabo">オープンラボ</a></li>
+</ul></div>                  <!--/secondary menu-->
+
+			</div>  <!--/secondary menu span-->
+                       <div class="span-24" id="main">
+
+
+
+        <div class="span-16">
+    	<div id="content">
+
+
+
+        <div class="postwrap postwrap-single clearfix">
+			<div class="post-96 page type-page status-publish hentry post clearfix" id="post-96">
+
+				<h2 class="title pagetitle">Web Science Laboratory へようこそ</h2>
+                <div class="entry clearfix">
+                    <h3><strong>最新情報</strong></h3>
+<p>2016年11月10日<br />
+<strong>国際会議体験記を更新しました!</strong><br />
+<a title="IEEE IWCIA 2016" href="http://takagiken.com/1197">IEEE IWCIA 2016</a></p>
+<p>2016年10月26日<br />
+<strong>国際会議体験記を更新しました！</strong><br />
+<a title="Web Intelligence 2016(WI’ 16)" href="http://takagiken.com/1182">Web Intelligence 2016(WI’ 16)</a></p>
+<p>2016年7月19日<br />
+<strong>WSLブログを更新しました!</strong><br />
+<a title="人工知能学会全国大会2016" href="http://takagiken.com/1168">人工知能学会全国大会2016</a><br />
+<!--
+
+
+<hr size="2" width="140" />
+
+2016年6月8日
+<strong>2016年度オープンラボ情報を更新しました!</strong>
+<strong></strong>
+<span style="color: blue;"><b>私達のテーマである「人工知能 x デジタルマーケティング」は、全く新しい時代をもたらしつつあります。
+両方のスキルを兼ね備える人材は、空前の人材難であり、これからの時代を作るキーパーソンとして活躍できるでしょう。
+この分野に興味のある人は，ぜひ志望してください。</b></span>
+
+※選考基準、オープンラボ日程を掲載しています。配属希望者は必ず確認してください。
+
+<a href="http://takagiken.com/136" target="_blank"><img class="alignnone size-full wp-image-843" alt="img21303" src="http://takagiken.com/wp-content/uploads/2011/06/img21303.gif" width="150" height="25" /></a>
+
+<iframe src="http://www.youtube.com/embed/Z30SfHw_Krc?rel=0" height="380" width="620" frameborder="0"></iframe>
+--></p>
+<hr size="2" width="140" />
+<p><a href="http://takagiken.com/wp-content/uploads/2016/06/opinion96_image2-e1465304865737.jpg"><img class="alignleft size-full wp-image-240" alt="高木友博" src="http://takagiken.com/wp-content/uploads/2011/06/tomohirotakagi.jpg" width="140" height="166" /></a></p>
+<p>明治大学 Web Science Laboratory（WSL）教授の高木友博です．</p>
+<p>WSLでは，WEB技術と脳科学を基盤として，ビッグデータを利用して複数の研究プロジェクトを進めています．</p>
+<p>WEB技術では，Eコマース，高精度推薦エンジン，<br />
+高精度ターゲティング，WEBマーケティング，ソーシャルマーケティング，バイラルマーケティングの先端研究・開発・商品化を行っており，それらは人工脳モデル，自然言語処理，機械学習，認知言語学，Computational Intelligence（計算型人工知能）等の基盤研究に支えられています．</p>
+<p>これまでに国内大手企業，米国石油資本などの産業界と様々な共同研究，委託研究を行ってきており，競争型国際ワークショップでも世界トップレベルの成績を収めています．<br />
+概要は「<a href="http://takagiken.com/category/theme">研究テーマ</a>」にてご覧ください．</p>
+<hr size="2" width="140" />
+<h4>企業の方へ：</h4>
+<p style="padding-left: 60px;">研究内容や共同研究にご興味がおありの場合は，takagi<img class="alignnone size-full wp-image-91" title="atmark" alt="" src="http://takagiken.com/wp-content/uploads/2011/06/atmark.gif" width="11" height="18" />cs.meiji.ac.jpへご連絡ください．常時プロジェクトは進行しており、過去にも多くの実績がございます．</p>
+<h4>当研究室志望の方へ：</h4>
+<p style="padding-left: 60px;">プロジェクト制による企業と同じ形式の研究体制で急速に実力をつけることができます．また国際会議での発表や，国際共同研究を通して，国際舞台で活躍するスキルも身につけることができます．「<a href="http://takagiken.com/category/international">国際会議体験記</a>」をご覧ください．</p>
+<h4>ゼミ配属を考えている方へ：</h4>
+<p>また、ゼミ配属に関する情報コーナーが設置されています． 「<a href="http://takagiken.com/category/openlabo">オープンラボ</a>」をご覧ください．</p>
+<p>&nbsp;</p>
+<p><a href="http://takagiken.com/category/international"><img class="alignleft size-full wp-image-302" title="国際会議体験記" alt="国際会議体験記" src="http://takagiken.com/wp-content/uploads/2011/06/international.jpg" width="300" height="175" /></a> <a href="http://takagiken.com/271"><img class="alignleft size-full wp-image-304" title="データで見る高木研" alt="データで見る高木研" src="http://takagiken.com/wp-content/uploads/2011/06/data.gif" width="300" height="175" /></a></p>
+<p><!-- EBiS common tag version2.00 start --><br />
+<script type="mce-text/javascript">// <![CDATA[
+(function() {
+    var host = (location.protocol == 'http:')
+             ? 'http://ac.ebis.ne.jp'
+             : 'https://ac.ebis.ne.jp';
+    var argument = 'sPutQ4F2';
+    var url      = host + '/ct_tag.php?argument=' + argument;
+    document.write('<scr' + 'ipt type="text/javascript" src="' + url + '"></scr' + 'ipt>');
+})();
+// ]]&gt;</script><br />
+<!-- EBiS common tag end --></p>
+    			</div>
+
+                			</div>
+        </div> <!--/post-96-->
+
+
+
+<div id="comments" class="clearfix">
+	   <p class="nocomments">Comments are closed.</p>
+
+
+</div><!-- #comments -->
+
+
+
+
+	</div>  <!--/content-->
+
+            </div> <!--/content span-->
+
+
+<div class="span-8 last" id="sidebars">
+
+
+    <div class="sidebar sidebar-1">
+
+
+                    <style type="text/css">
+                <!--
+                                    #widget-flexisearch-3-width {
+                	   margin: 20px 0 0 0;
+                    }                    #widget-flexisearch-3-width #s {
+                	   width: 270px;
+                    }                -->
+            </style>
+
+        <div id="widget-flexisearch-3-width">
+
+<div id="search">
+    <form method="get" id="searchform" action="http://takagiken.com/">
+        <input type="text" value="検索"
+            name="s" id="s"  onblur="if (this.value == '')  {this.value = '検索';}"
+            onfocus="if (this.value == '検索') {this.value = '';}" />
+        <input type="image" src="http://takagiken.com/wp-content/themes/Initiate/images/search.png" title="検索" class="search-image" />
+    </form>
+</div>        </div>
+             <div class="flexi-text">
+            <a href="http://www.meiji.ac.jp/sst/index.html" target="_blank"><img src="http://takagiken.com/wp-content/uploads/2011/06/scienceandtechnology1.jpg" alt="明治大学理工学部" title="明治大学理工学部" width="310" height="75" class="alignnone size-full wp-image-72" /></a>        </div>
+                <div class="flexi-text">
+            <a href="http://takagiken.com/tomohiro-takagi/"><img src="http://takagiken.com/wp-content/uploads/2011/06/about-takagi.jpg" alt="高木友博" title="高木友博" width="310" height="75" class="alignnone size-full wp-image-95" /></a>        </div>
+                <div class="flexi-text">
+            <a href="http://takagiken.com/ts-model"><img src="http://takagiken.com/wp-content/uploads/2011/06/ts-model-banner.gif" alt="TAKAGI SUGENO MODELING" title="TAKAGI SUGENO MODELING" width="310" height="150" class="alignnone size-full wp-image-116" /></a>        </div>
+                <div class="flexi-text">
+            <a href="http://journal.mycom.co.jp/articles/2011/01/04/meiji_univ/" target="_blank"><img src="http://takagiken.com/wp-content/uploads/2011/06/mycom.gif" alt="マイコミジャーナル 高木明大教授とIT業界が取り組む講義の狙い" title="マイコミジャーナル 高木明大教授とIT業界が取り組む講義の狙い" width="310" height="75" /></a>        </div>
+                <div class="flexi-text">
+            <a href="http://agora-web.jp/archives/1124649.html" target="_blank"><img src="http://takagiken.com/wp-content/uploads/2011/06/agora.jpg" alt="アゴラ 大学とは何か？ 松本徹三" title="アゴラ 大学とは何か？ 松本徹三" width="310" height="75" /></a>        </div>
+                <ul class="widget-wrap flexi-posts-wrap"><li class="flexi-posts">
+             <h3 class="widget-title flexi-posts-widget-title">近況報告</h3>             <ul>
+        	                    <li class="clearfix">
+                        <a href="http://takagiken.com/1197"><img width="60" height="60" src="http://takagiken.com/wp-content/uploads/2016/11/Slack-for-iOS-Upload-150x150.jpeg" class="flexi-posts-thumbnail alignleft wp-post-image" alt="IEEE 国際学会" /></a>                          <h3 class="flexi-posts-title"><a href="http://takagiken.com/1197" rel="bookmark" title="IEEE IWCIA 2016">IEEE IWCIA 2016</a></h3>                        <div class="flexi-posts-meta">2016年 11月 10日                                </div><div class="flexi-posts-entry"> <a class="flexi-posts-more" href="http://takagiken.com/1197" rel="bookmark" title="Permalink to IEEE IWCIA 2016">Read More &raquo;</a>                                </div>                    </li>
+                                    <li class="clearfix">
+                        <a href="http://takagiken.com/1182"><img width="60" height="60" src="http://takagiken.com/wp-content/uploads/2016/10/Slack-for-iOS-Upload-150x150.jpg" class="flexi-posts-thumbnail alignleft wp-post-image" alt="Web Intelligence 国際学会体験記" /></a>                          <h3 class="flexi-posts-title"><a href="http://takagiken.com/1182" rel="bookmark" title="Web Intelligence 2016(WI’ 16)">Web Intelligence 2016(WI’ 16)</a></h3>                        <div class="flexi-posts-meta">2016年 10月 26日                                </div><div class="flexi-posts-entry"> <a class="flexi-posts-more" href="http://takagiken.com/1182" rel="bookmark" title="Permalink to Web Intelligence 2016(WI’ 16)">Read More &raquo;</a>                                </div>                    </li>
+                                    <li class="clearfix">
+                        <a href="http://takagiken.com/1168"><img width="60" height="60" src="http://takagiken.com/wp-content/uploads/2016/07/Pasted-image-at-2016_07_14-10_50-PM-150x150.png" class="flexi-posts-thumbnail alignleft wp-post-image" alt="Pasted image at 2016_07_14 10_50 PM" /></a>                          <h3 class="flexi-posts-title"><a href="http://takagiken.com/1168" rel="bookmark" title="人工知能学会全国大会2016">人工知能学会全国大会2016</a></h3>                        <div class="flexi-posts-meta">2016年 07月 19日                                </div><div class="flexi-posts-entry"> <a class="flexi-posts-more" href="http://takagiken.com/1168" rel="bookmark" title="Permalink to 人工知能学会全国大会2016">Read More &raquo;</a>                                </div>                    </li>
+                                    <li class="clearfix">
+                        <a href="http://takagiken.com/1149"><img width="60" height="60" src="http://takagiken.com/wp-content/uploads/2016/06/opinion96_image2-150x150.jpg" class="flexi-posts-thumbnail alignleft wp-post-image" alt="高木友博" /></a>                          <h3 class="flexi-posts-title"><a href="http://takagiken.com/1149" rel="bookmark" title="本研究室の取り組みが「Meiji.net」で紹介されました．">本研究室の取り組みが「Meiji.net」で紹介されました．</a></h3>                        <div class="flexi-posts-meta">2016年 06月 07日                                </div><div class="flexi-posts-entry"> <a class="flexi-posts-more" href="http://takagiken.com/1149" rel="bookmark" title="Permalink to 本研究室の取り組みが「Meiji.net」で紹介されました．">Read More &raquo;</a>                                </div>                    </li>
+                                    <li class="clearfix">
+                        <a href="http://takagiken.com/1139"><img width="60" height="60" src="http://takagiken.com/wp-content/uploads/2016/05/image-150x150.png" class="flexi-posts-thumbnail alignleft wp-post-image" alt="image" /></a>                          <h3 class="flexi-posts-title"><a href="http://takagiken.com/1139" rel="bookmark" title="サイバーエージェントAIラボとの共同研究がメディアに掲載されました。">サイバーエージェントAIラボとの共同研究がメディアに掲載されました。</a></h3>                        <div class="flexi-posts-meta">2016年 05月 04日                                </div><div class="flexi-posts-entry"> <a class="flexi-posts-more" href="http://takagiken.com/1139" rel="bookmark" title="Permalink to サイバーエージェントAIラボとの共同研究がメディアに掲載されました。">Read More &raquo;</a>                                </div>                    </li>
+                                    <li class="clearfix">
+                                                 <h3 class="flexi-posts-title"><a href="http://takagiken.com/1129" rel="bookmark" title="研究室クリスマスパーティを開催しました！">研究室クリスマスパーティを開催しました！</a></h3>                        <div class="flexi-posts-meta">2016年 01月 07日                                </div><div class="flexi-posts-entry"> <a class="flexi-posts-more" href="http://takagiken.com/1129" rel="bookmark" title="Permalink to 研究室クリスマスパーティを開催しました！">Read More &raquo;</a>                                </div>                    </li>
+                                    <li class="clearfix">
+                                                 <h3 class="flexi-posts-title"><a href="http://takagiken.com/1124" rel="bookmark" title="Web Intelligence 2015(WI&#8217;15)">Web Intelligence 2015(WI&#8217;15)</a></h3>                        <div class="flexi-posts-meta">2015年 12月 21日                                </div><div class="flexi-posts-entry"> <a class="flexi-posts-more" href="http://takagiken.com/1124" rel="bookmark" title="Permalink to Web Intelligence 2015(WI&#8217;15)">Read More &raquo;</a>                                </div>                    </li>
+                                    <li class="clearfix">
+                                                 <h3 class="flexi-posts-title"><a href="http://takagiken.com/1096" rel="bookmark" title="International Workshop on Semantic Evaluation 2015">International Workshop on Semantic Evaluation 2015</a></h3>                        <div class="flexi-posts-meta">2015年 06月 10日                                </div><div class="flexi-posts-entry"> <a class="flexi-posts-more" href="http://takagiken.com/1096" rel="bookmark" title="Permalink to International Workshop on Semantic Evaluation 2015">Read More &raquo;</a>                                </div>                    </li>
+                                    <li class="clearfix">
+                                                 <h3 class="flexi-posts-title"><a href="http://takagiken.com/1085" rel="bookmark" title="人工知能学会全国大会2015">人工知能学会全国大会2015</a></h3>                        <div class="flexi-posts-meta">2015年 06月 09日                                </div><div class="flexi-posts-entry"> <a class="flexi-posts-more" href="http://takagiken.com/1085" rel="bookmark" title="Permalink to 人工知能学会全国大会2015">Read More &raquo;</a>                                </div>                    </li>
+                                    <li class="clearfix">
+                                                 <h3 class="flexi-posts-title"><a href="http://takagiken.com/1042" rel="bookmark" title="AIPR2014">AIPR2014</a></h3>                        <div class="flexi-posts-meta">2014年 12月 17日                                </div><div class="flexi-posts-entry"> <a class="flexi-posts-more" href="http://takagiken.com/1042" rel="bookmark" title="Permalink to AIPR2014">Read More &raquo;</a>                                </div>                    </li>
+                            </ul>
+        </li></ul>
+        <ul class="widget-wrap"><li id="archives-4" class="widget widget_archive"><h3 class="widget-title">アーカイブ</h3>		<ul>
+			<li><a href='http://takagiken.com/date/2016/11'>2016年11月</a>&nbsp;(1)</li>
+	<li><a href='http://takagiken.com/date/2016/10'>2016年10月</a>&nbsp;(1)</li>
+	<li><a href='http://takagiken.com/date/2016/07'>2016年7月</a>&nbsp;(1)</li>
+	<li><a href='http://takagiken.com/date/2016/06'>2016年6月</a>&nbsp;(1)</li>
+	<li><a href='http://takagiken.com/date/2016/05'>2016年5月</a>&nbsp;(1)</li>
+	<li><a href='http://takagiken.com/date/2016/01'>2016年1月</a>&nbsp;(1)</li>
+	<li><a href='http://takagiken.com/date/2015/12'>2015年12月</a>&nbsp;(1)</li>
+	<li><a href='http://takagiken.com/date/2015/06'>2015年6月</a>&nbsp;(2)</li>
+	<li><a href='http://takagiken.com/date/2014/12'>2014年12月</a>&nbsp;(1)</li>
+	<li><a href='http://takagiken.com/date/2014/06'>2014年6月</a>&nbsp;(4)</li>
+	<li><a href='http://takagiken.com/date/2014/05'>2014年5月</a>&nbsp;(2)</li>
+	<li><a href='http://takagiken.com/date/2014/01'>2014年1月</a>&nbsp;(2)</li>
+	<li><a href='http://takagiken.com/date/2013/12'>2013年12月</a>&nbsp;(1)</li>
+	<li><a href='http://takagiken.com/date/2013/11'>2013年11月</a>&nbsp;(1)</li>
+	<li><a href='http://takagiken.com/date/2013/04'>2013年4月</a>&nbsp;(3)</li>
+	<li><a href='http://takagiken.com/date/2012/07'>2012年7月</a>&nbsp;(1)</li>
+	<li><a href='http://takagiken.com/date/2012/06'>2012年6月</a>&nbsp;(6)</li>
+	<li><a href='http://takagiken.com/date/2011/11'>2011年11月</a>&nbsp;(2)</li>
+	<li><a href='http://takagiken.com/date/2011/10'>2011年10月</a>&nbsp;(1)</li>
+	<li><a href='http://takagiken.com/date/2011/09'>2011年9月</a>&nbsp;(1)</li>
+	<li><a href='http://takagiken.com/date/2011/06'>2011年6月</a>&nbsp;(10)</li>
+		</ul>
+</li></ul>
+
+    </div>  <!--/sidebar 1-->
+
+
+</div>  <!--/sidebar 1 span-->
+
+
+    </div> <!--/main & main span-->
+
+
+
+                </div> <!--/container-->
+
+		<div id="footer">
+
+            <div id="copyrights">
+            Copyright (c) 2011 <a href="http://takagiken.com/tomohirotakagi/">Tomohiro Takagi</a> All rights reserved. / Web Consulted by <a href="http://magsl.jp">MagSL Inc.</a>            </div>
+
+                        		</div> <!--/footer-->
+
+	</div> <!--/wrapper-->
+<script type='text/javascript' src='http://takagiken.com/wp-includes/js/hoverIntent.min.js?ver=r7'></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+jQuery.noConflict();
+jQuery(function(){
+                        jQuery('ul.primary-menu').superfish({
+                            autoArrows:  false,
+                            dropShadows: false
+                        });
+                    });
+jQuery(function(){
+                        jQuery('ul.secondary-menu').superfish({
+                            autoArrows:  true,
+                            dropShadows: false
+                        });
+                    });
+
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24120198-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>
