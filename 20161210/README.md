@@ -5,7 +5,7 @@
 ## 発表者
 * 村上
   + Let's Swift
-  + 資料
+  + [資料](Swift入門.pdf)
 * 友松
   + 正規表現超入門
   + [資料](http://www.slideshare.net/tomo_otamot/regular-expression-70005638)
